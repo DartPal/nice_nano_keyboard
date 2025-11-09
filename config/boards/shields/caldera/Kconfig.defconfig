@@ -1,4 +1,4 @@
-if SHIELD_CALDERA_LEFT
+if SHIELD_CALDERA_RIGHT
 
 config ZMK_KEYBOARD_NAME
     default "Caldera"
