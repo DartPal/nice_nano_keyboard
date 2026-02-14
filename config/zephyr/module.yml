@@ -1,0 +1,5 @@
+name: caldera
+build-settings:
+  board-root: boards
+  shield-root: boards/shields
+  dts-root: boards
